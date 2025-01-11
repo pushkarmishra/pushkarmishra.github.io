@@ -7,6 +7,7 @@ layout: home
 ---
 
 <html lang="en">
+<title>Pushkar Mishra | Google DeepMind</title>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
