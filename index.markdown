@@ -100,7 +100,7 @@ layout: home
         <div class="profile-info">
             <h1>Pushkar Mishra</h1>
             <div class="subtitle">Lead AI Researcher | Google DeepMind</div>
-            <p>I am a Lead AI researcher at Google DeepMind. My research interests include Generative AI, Core Machine Learning, and Natural Language Processing.</p>
+            <p>Pushkar Mishra is a Lead AI researcher at Google DeepMind. His research interests include Generative AI, Core Machine Learning, and Natural Language Processing.</p>
         </div>
         <img src="assets/Pushkar_Mishra.jpg" alt="Pushkar Mishra" class="profile-image">
     </div>
