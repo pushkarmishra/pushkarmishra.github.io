@@ -107,7 +107,7 @@ layout: home
 
     <a href="https://scholar.google.com/citations?user=bVcZ1qkAAAAJ" class="google-scholar" target="_blank">
         Google Scholar
-        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="https://www.w3.org/2000/svg">
             <path d="M5 10H15M15 10L10 5M15 10L10 15" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
         </svg>
     </a>

@@ -22,7 +22,7 @@ title: ""
 description: >- # this means to ignore newlines until "baseurl:"
   Pushkar Mishra | Google DeepMind
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pushkarmishra.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pushkarmishra.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Build settings
 remote_theme: jekyll/minima
