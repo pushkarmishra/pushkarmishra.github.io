@@ -18,6 +18,7 @@ layout: home
             color: #333;
         }
         
+         /* Landing */
         .header {
             display: grid;
             grid-template-columns: 2fr 1fr;
@@ -45,6 +46,7 @@ layout: home
             border-radius: 4px;
         }
         
+        /* Google scholar */
         .google-scholar {
             display: inline-flex;
             align-items: center;
@@ -68,6 +70,7 @@ layout: home
             margin: 30px 0 20px 0;
         }
         
+        /* Research areas */
         .research-areas {
             display: grid;
             grid-template-columns: repeat(3, 1fr);
@@ -92,6 +95,60 @@ layout: home
         
         .nlp {
             background: #1f3937;
+        }
+
+        /* Updates */
+        .latest-updates {
+          margin: 2rem 0;
+          padding: 1rem;
+        }
+
+        .updates-container {
+          max-width: 800px;
+          margin: 0 auto;
+        }
+
+        .update-card {
+          display: flex;
+          margin-bottom: 1.5rem;
+          padding: 1rem;
+          border-radius: 8px;
+          background-color: #e1e6eb;
+          transition: transform 0.2s ease;
+        }
+
+        .update-card:hover {
+          transform: translateY(-2px);
+          box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .update-date {
+          min-width: 200px;
+          font-weight: 500;
+          color: #666;
+        }
+
+        .update-content {
+          flex: 1;
+        }
+
+        .update-content h3 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.1rem;
+        }
+
+        .update-content a {
+          color: #1a73e8;
+          text-decoration: none;
+        }
+
+        .update-content a:hover {
+          text-decoration: underline;
+        }
+
+        .update-content p {
+          margin: 0;
+          color: #444;
         }
     </style>
 </head>
@@ -118,5 +175,27 @@ layout: home
         <div class="research-area core-ml">Core Machine Learning</div>
         <div class="research-area nlp">Natural Language Processing (NLP)</div>
     </div>
+
+    <br>
+    <h2 class="section-title">Latest Updates</h2>
+    <div class="updates-container">
+    {% for update in site.data.updates limit:5 %}
+      <div class="update-card">
+        <div class="update-date">
+          {{ update.date | date: "%B %d, %Y" }}
+        </div>
+        <div class="update-content">
+          <h3>
+            {% if update.link %}
+              <a href="{{ update.link }}" target="_blank">{{ update.title }}</a>
+            {% else %}
+              {{ update.title }}
+            {% endif %}
+          </h3>
+          <p>{{ update.description }}</p>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
 </body>
 </html>

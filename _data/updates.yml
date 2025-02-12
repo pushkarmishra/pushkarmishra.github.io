@@ -1,0 +1,16 @@
+- date: 2025-02-10
+  title: "New paper on metrics for quantifying how different rater groups respond to the severity of safety violations in generative outputs"
+  description: "
+    <i>Nuanced Safety in Generative AI: How Demographics Shape Responsiveness to Severity</i>
+    <p style='padding-top:10px'><b>Pushkar Mishra</b>, Charvi Rastogi, Stephen R. Pfohl, Alicia Parrish, Roma Patel, Mark Diaz, Ding Wang, Michela Paganini, Vinodkumar Prabhakaran, Lora Aroyo, Verena Rieser</p>
+
+  "
+  link: "/assets/papers/responsiveness_to_severity.pdf"
+
+- date: 2024-12-15
+  title: "New paper at NeurIPS 2024 Safe Generative AI workshop on gathering insights into safety from diverse rater groups"
+  description: "
+    <i>Insights on Disagreement Patterns in Multimodal Safety Perception across Diverse Rater Groups</i>
+    <p style='padding-top:10px'>Charvi Rastogi, Tian Huey Teh, <b>Pushkar Mishra</b>, Roma Patel, Zoe Ashwood, Aida Mostafazadeh Davani, Mark Diaz, Michela Paganini, Alicia Parrish, Ding Wang, Vinodkumar Prabhakaran, Lora Aroyo, Verena Rieser</p>
+  "
+  link: "https://arxiv.org/abs/2410.17032"
