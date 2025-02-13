@@ -16,6 +16,7 @@ layout: home
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
             margin: 0 auto;
             color: #333;
+            overscroll-behavior-y: none;
         }
         
          /* Landing */
@@ -83,6 +84,7 @@ layout: home
             color: white;
             border-radius: 8px;
             font-weight: 500;
+            text-align: center;
         }
         
         .generative-ai {
