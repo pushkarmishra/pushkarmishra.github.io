@@ -17,7 +17,6 @@ layout: home
             margin: 0 auto;
             color: #333;
             overscroll-behavior-y: none;
-            overscroll-behavior-x: none;
         }
         
          /* Landing */
