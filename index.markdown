@@ -160,7 +160,7 @@ layout: home
             <h1>Pushkar Mishra</h1>
             <div class="subtitle">Lead AI Researcher | Google DeepMind</div>
             <p>Pushkar Mishra is a Lead AI researcher at Google DeepMind. His research interests include Generative AI, Core Machine Learning, and Natural Language Processing.</p>
-            <p>Before Google DeepMind, he was at Meta AI (ex-Facebook AI), where he led the company-wide effort on robust recommender systems and contributed to the pivotal initiative on open-source foundation models as one of the authors of Llama 2.</p>
+            <p>Before Google DeepMind, he was at <a href="https://ai.meta.com/people/1323082615033893/pushkar-mishra/" target="_blank">Meta AI (ex-Facebook AI)</a>, where he led the company-wide effort on robust recommender systems and contributed to the pivotal initiative on open-source foundation models as one of the authors of Llama 2.</p>
         </div>
         <img src="assets/Pushkar_Mishra.jpg" alt="Pushkar Mishra" class="profile-image">
     </div>
