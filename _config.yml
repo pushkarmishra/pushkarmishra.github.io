@@ -33,7 +33,7 @@ plugins:
 minima:
   social_links:
     - { platform: linkedin,  user_url: "https://www.linkedin.com/in/pushkarmishra96" }
-    - { platform: twitter, user_url: "https://twitter.com/ImPushMish" }
+    - { platform: x, user_url: "https://x.com/ImPushMish" }
     - { platform: instagram, user_url: "https://www.instagram.com/push.mish"}
 
 # Exclude from processing.
