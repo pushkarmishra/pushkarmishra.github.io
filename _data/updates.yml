@@ -5,7 +5,7 @@
     <p style='padding-top:10px'><b>Pushkar Mishra</b>, Charvi Rastogi, Stephen R. Pfohl, Alicia Parrish, Roma Patel, Mark Diaz, Ding Wang, Michela Paganini, Vinodkumar Prabhakaran, Lora Aroyo, Verena Rieser</p>
 
   "
-  link: "/assets/papers/responsiveness_to_severity.pdf"
+  link: "https://arxiv.org/abs/2503.05609"
 
 - date: 2024-12-15
   title: "New paper on gathering insights into safety from diverse rater groups at the NeurIPS 2024 Safe Generative AI workshop"
