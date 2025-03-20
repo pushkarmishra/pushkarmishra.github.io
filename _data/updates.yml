@@ -1,9 +1,16 @@
+- date: 2025-03-20
+  title: "New paper on modelling human variations in rating tasks using interpretable and steerable natural language descriptions of underlying values compressed from in-context demonstrations"
+  description: "
+    <i>Value Profiles for Encoding Human Variation</i>
+    <p style='padding-top:10px'>Taylor Sorensen, <b>Pushkar Mishra</b>, Roma Patel, Michael Henry Tessler, Michiel Bakker, Georgina Evans, Iason Gabriel, Noah Goodman, Verena Rieser</p>
+  "
+  link: "https://arxiv.org/abs/2503.15484"
+
 - date: 2025-02-10
   title: "New paper on metrics for quantifying how different rater groups respond to the severity of safety violations in generative outputs"
   description: "
     <i>Nuanced Safety in Generative AI: How Demographics Shape Responsiveness to Severity</i>
     <p style='padding-top:10px'><b>Pushkar Mishra</b>, Charvi Rastogi, Stephen R. Pfohl, Alicia Parrish, Roma Patel, Mark Diaz, Ding Wang, Michela Paganini, Vinodkumar Prabhakaran, Lora Aroyo, Verena Rieser</p>
-
   "
   link: "https://arxiv.org/abs/2503.05609"
 
