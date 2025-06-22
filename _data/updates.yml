@@ -1,3 +1,11 @@
+- date: 2025-06-18
+  title: "Gemini 2.5 is now generally available and topping the leaderboards"
+  description: "
+    <i>Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities.</i>
+    <p style='padding-top:10px'>Gemini Team, Google</p>
+  "
+  link: "https://storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf"
+
 - date: 2025-03-20
   title: "New paper on modelling human variations in rating tasks using interpretable and steerable natural language descriptions of underlying values compressed from in-context demonstrations"
   description: "
@@ -9,10 +17,10 @@
 - date: 2025-02-10
   title: "New paper on metrics for quantifying how different rater groups respond to the severity of safety violations in generative outputs"
   description: "
-    <i>Nuanced Safety in Generative AI: How Demographics Shape Responsiveness to Severity</i>
-    <p style='padding-top:10px'><b>Pushkar Mishra</b>, Charvi Rastogi, Stephen R. Pfohl, Alicia Parrish, Roma Patel, Mark Diaz, Ding Wang, Michela Paganini, Vinodkumar Prabhakaran, Lora Aroyo, Verena Rieser</p>
+    <i>Decoding Safety Feedback from Diverse Raters: A Data-driven Lens on Responsiveness to Severity</i>
+    <p style='padding-top:10px'><b>Pushkar Mishra</b>, Charvi Rastogi, Stephen R. Pfohl, Alicia Parrish, Tian Huey Teh, Roma Patel, Mark Diaz, Ding Wang, Michela Paganini, Vinodkumar Prabhakaran, Lora Aroyo, Verena Rieser</p>
   "
-  link: "https://arxiv.org/abs/2503.05609"
+  link: "/assets/papers/responsiveness_to_severity.pdf"
 
 - date: 2024-12-15
   title: "New paper on gathering insights into safety from diverse rater groups at the NeurIPS 2024 Safe Generative AI workshop"
