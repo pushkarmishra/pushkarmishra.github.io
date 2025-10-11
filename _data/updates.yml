@@ -1,3 +1,11 @@
+- date: 2025-09-18
+  title: "Paper on gathering insights into safety from diverse rater groups accepted at NeurIPS 2025 as spotlight"
+  description: "
+    <i>Whose View of Safety? A Deep DIVE Dataset for Pluralistic Alignment of Text-to-Image Models</i>
+    <p style='padding-top:10px'>Charvi Rastogi, Tian Huey Teh, <b>Pushkar Mishra</b>, Roma Patel, Zoe Ashwood, Aida Mostafazadeh Davani, Mark Diaz, Michela Paganini, Alicia Parrish, Ding Wang, Vinodkumar Prabhakaran, Lora Aroyo, Verena Rieser</p>
+  "
+  link: "https://arxiv.org/abs/2507.13383"
+
 - date: 2025-06-18
   title: "Gemini 2.5 is now generally available and topping the leaderboards"
   description: "
@@ -21,11 +29,3 @@
     <p style='padding-top:10px'><b>Pushkar Mishra</b>, Charvi Rastogi, Stephen R. Pfohl, Alicia Parrish, Tian Huey Teh, Roma Patel, Mark Diaz, Ding Wang, Michela Paganini, Vinodkumar Prabhakaran, Lora Aroyo, Verena Rieser</p>
   "
   link: "https://arxiv.org/abs/2503.05609"
-
-- date: 2024-12-15
-  title: "New paper on gathering insights into safety from diverse rater groups at the NeurIPS 2024 Safe Generative AI workshop"
-  description: "
-    <i>Insights on Disagreement Patterns in Multimodal Safety Perception across Diverse Rater Groups</i>
-    <p style='padding-top:10px'>Charvi Rastogi, Tian Huey Teh, <b>Pushkar Mishra</b>, Roma Patel, Zoe Ashwood, Aida Mostafazadeh Davani, Mark Diaz, Michela Paganini, Alicia Parrish, Ding Wang, Vinodkumar Prabhakaran, Lora Aroyo, Verena Rieser</p>
-  "
-  link: "https://arxiv.org/abs/2410.17032"
