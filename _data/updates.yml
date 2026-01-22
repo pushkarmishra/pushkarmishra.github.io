@@ -1,3 +1,11 @@
+- date: 2026-01-19
+  title: "Paper accepted to TMLR on metrics for quantifying how different rater groups respond to the severity of safety violations in content"
+  description: "
+    <i>Decoding Safety Feedback from Diverse Raters: A Data-driven Lens on Responsiveness to Severity</i>
+    <p style='padding-top:10px'><b>Pushkar Mishra</b>, Charvi Rastogi, Stephen R. Pfohl, Alicia Parrish, Tian Huey Teh, Roma Patel, Mark Diaz, Ding Wang, Michela Paganini, Vinodkumar Prabhakaran, Lora Aroyo, Verena Rieser</p>
+  "
+  link: "https://arxiv.org/abs/2503.05609"
+
 - date: 2025-09-18
   title: "Paper on gathering insights into safety from diverse rater groups accepted at NeurIPS 2025 as spotlight"
   description: "
@@ -21,11 +29,3 @@
     <p style='padding-top:10px'>Taylor Sorensen, <b>Pushkar Mishra</b>, Roma Patel, Michael Henry Tessler, Michiel Bakker, Georgina Evans, Iason Gabriel, Noah Goodman, Verena Rieser</p>
   "
   link: "https://arxiv.org/abs/2503.15484"
-
-- date: 2025-02-10
-  title: "New paper on metrics for quantifying how different rater groups respond to the severity of safety violations in generative outputs"
-  description: "
-    <i>Decoding Safety Feedback from Diverse Raters: A Data-driven Lens on Responsiveness to Severity</i>
-    <p style='padding-top:10px'><b>Pushkar Mishra</b>, Charvi Rastogi, Stephen R. Pfohl, Alicia Parrish, Tian Huey Teh, Roma Patel, Mark Diaz, Ding Wang, Michela Paganini, Vinodkumar Prabhakaran, Lora Aroyo, Verena Rieser</p>
-  "
-  link: "https://arxiv.org/abs/2503.05609"
