@@ -1,3 +1,11 @@
+- date: 2026-09-25
+  title: "Paper to be presented at EMNLP 2026 elucidating how well reward models trained on human preference data generalize to context-dependent scenarios."
+  description: "
+    <i>What do Reward Models Memorize</i>
+    <p style='padding-top:10px'>Ivo Verhoeven, <b>Pushkar Mishra</b>, Ekaterina Shutova</p>
+  "
+  link: "https://arxiv.org/abs/2607.24484"
+
 - date: 2026-01-19
   title: "Paper accepted to TMLR introducing new metrics for quantifying how different rater groups respond to the severity of content safety violations"
   description: "
@@ -17,7 +25,7 @@
 - date: 2025-06-18
   title: "Gemini 2.5 is now generally available and topping the leaderboards"
   description: "
-    <i>Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities.</i>
+    <i>Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities</i>
     <p style='padding-top:10px'>Gemini Team, Google</p>
   "
   link: "https://storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf"
